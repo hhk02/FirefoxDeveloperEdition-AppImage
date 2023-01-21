@@ -1,4 +1,4 @@
-# Firefox Developèr Edition with AppImage
+# Firefox Developer Edition with AppImage
 a AppImage of Firefox Developer Edition
 
 ## How to use
