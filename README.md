@@ -1,5 +1,5 @@
 # Firefox Developer Edition with AppImage
-a AppImage of Firefox Developer Edition
+a AppImage of Firefox Developer Edition from the tar file
 
 ## How to use
 
