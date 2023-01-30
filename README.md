@@ -6,7 +6,7 @@ a AppImage of Firefox Developer Edition from the tar file
 Simply assign execute permissions on AppImage with:
 
 ```
-chmod +x ./Firefox_Developer_Edition-x86_64.AppImage
+chmod +x Firefox_Developer_Edition-x86_64.AppImage
 
 ```
 
